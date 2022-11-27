@@ -7,3 +7,4 @@ In this project, the users can:
 2. Book bus
 3. Cancel bus
 
+with automation testing using Selenium Webdriver
